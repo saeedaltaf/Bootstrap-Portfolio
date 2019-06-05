@@ -17,9 +17,6 @@ body{
     background-color: #063672;
     color: lightgrey;
 }
-.footer{
-    background-color: #9c824a;
-}
 .para{
     align-content: center;
 }
@@ -40,11 +37,19 @@ h3{
     background-color: #ef0107;
 }
 .container{
-    background-color: green;
+    /* background-color: green; */
 }
 .caption{
     color:black;
 }
-.img-responsive{
+.img-fluid{
     padding: 10px;
 }
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    /* height: 60px; */
+    background-color: #9c824a;
+  }
