@@ -1,3 +1,6 @@
+body{
+    background-image: url(assets/images/background.jpg);
+}
 #saeed{
     padding-left: 5px;
     padding-right: 5px;
@@ -13,4 +16,7 @@
 .Contact{
     background-color: #063672;
     color: lightgrey;
+}
+.footer{
+    background-color: #9c824a;
 }
