@@ -1,6 +1,5 @@
 body{
     background-image: url(assets/images/background.jpg);
-    height: 100%;
 }
 #saeed{
     padding-left: 5px;
@@ -20,9 +19,6 @@ body{
 }
 .footer{
     background-color: #9c824a;
-    padding-top: -50px;
-    position: relative;
-    clear: both;
 }
 .para{
     align-content: center;
@@ -45,5 +41,10 @@ h3{
 }
 .container{
     background-color: green;
-    height: 100%;
+}
+.caption{
+    color:black;
+}
+.img-responsive{
+    padding: 10px;
 }
