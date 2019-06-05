@@ -24,5 +24,12 @@ body{
     align-content: center;
 }
 h3{
-    text-align: center;
+    /* text-align: center; */
+    margin-left: 150px;
+}
+#arslogo{
+    float: left;
+    padding: 30px;
+    height: 200;
+    width: 180;
 }
