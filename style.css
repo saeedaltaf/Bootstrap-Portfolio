@@ -20,3 +20,9 @@ body{
 .footer{
     background-color: #9c824a;
 }
+.para{
+    align-content: center;
+}
+h3{
+    text-align: center;
+}
