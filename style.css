@@ -11,13 +11,25 @@ body{
     background-color: #ef0107;
     color: lightgrey;
 }
+#abt:hover{
+    background-color: green;
+    color: red;
+}
 .Portfolio{
     background-color: #9c824a;
     color: lightgrey;
 }
+#ptf:hover{
+    background-color: green;
+    color: red;
+}
 .Contact{
     background-color: #063672;
     color: lightgrey;
+}
+#cnt:hover{
+    background-color: green;
+    color: red;
 }
 .para{
     align-content: center;
